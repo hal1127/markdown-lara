@@ -1,0 +1,14 @@
+{
+    "name": "hal/markdown",
+    "authors": [
+        {
+            "name": "hal1127",
+            "email": "harukium@gmail.com"
+        }
+    ],
+    "require": {
+        "michelf/php-markdown": "^1.9",
+        "cebe/markdown": "^1.2",
+        "ezyang/htmlpurifier": "^4.13"
+    }
+}
